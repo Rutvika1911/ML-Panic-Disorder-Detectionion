@@ -1,5 +1,4 @@
 # ML-Panic-Disorder-Detectionion
-HELPS RESERACHERS TO INVESTIGATE DIAGNOSIS STATUS OVER THE DISORDER.
 This is ML project on Panic Disorder Detection.in Which We have to predict diagnosis status over disorder.It contains 1 lakhs observation with 17 attribute.
 This dataset having missing values three columns which are categorical.we done dtype conversion also.
 There is no skewness And outliers in these dataset.There is High Class-imbalance in it .so i perform smote(over-sampling)technique to treated class imbalance.
